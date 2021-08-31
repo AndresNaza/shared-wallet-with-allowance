@@ -27,4 +27,4 @@ The goal of this project is to create a wallet smart contract on Solidity that c
 🔍 Re-Use existing smart contracts which are already audited to the greatest extent
 
 
-This project is part of the Ethereum Blockchain Developer Bootcamp with Solidity (2021) in Udemy.
+This project is part of the Ethereum Blockchain Developer Bootcamp with Solidity (2021) in Udemy. It can be tested on [Remix](http://remix.ethereum.org/)
